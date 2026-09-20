@@ -2,27 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <!-- Página Principal -->
     <url>
-        <loc>http://localhost:9901/</loc>
+        <loc>https://9901.vercel.app/</loc>
     </url>
 
     <!-- Pasta Admin -->
     <url>
-        <loc>http://localhost:9901/admin/index.html</loc>
+        <loc>https://9901.vercel.app/admin/index.html</loc>
     </url>
 
     <!-- Pasta F -->
     <url>
-        <loc>http://localhost:9901/f/index.html</loc>
+        <loc>https://9901.vercel.app/f/index.html</loc>
     </url>
     <url>
-        <loc>http://localhost:9901/f/quemsomos.html</loc>
+        <loc>https://9901.vercel.app/f/quemsomos.html</loc>
     </url>
 
     <!-- Pasta G -->
     <url>
-        <loc>http://localhost:9901/g/sistemas.html</loc>
+        <loc>https://9901.vercel.app/g/sistemas.html</loc>
     </url>
     <url>
-        <loc>http://localhost:9901/g/site.html</loc>
+        <loc>https://9901.vercel.app/g/site.html</loc>
     </url>
 </urlset>
